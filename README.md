@@ -1,3 +1,4 @@
-# withmore-hope-org
-withmore hope org static website
+# Consumption Game 
+The source code for the consumption website. It is deployed via hook to AWS.
+
 # consumption-game
